@@ -12,9 +12,8 @@ body{
 margin: 0;
 }
 header{
-    background-color:gold;
+    background-color:black;
     color:goldenrod;
   padding: 20px;
-  text-align: center;
   border-bottom:2px solid goldenrod;
 }
