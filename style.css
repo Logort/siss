@@ -12,7 +12,7 @@ body{
 margin: 0;
 }
 .header{
-    background-color:goldenrod;
+    background-color:rgb(red, green, blue);
     color: wheat;
   padding: 20px;
   text-align: center;
