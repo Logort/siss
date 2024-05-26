@@ -22,9 +22,9 @@ header{
     background-color: white;
 
     background-color:white;
-    display: inline;
+    display: inline-block; height: 200px; width: 200px; background-color: aqua;
     padding: 20px;
-    }s
+    }
 
 .img-rigth{
  position: absolute;
