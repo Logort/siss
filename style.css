@@ -20,8 +20,9 @@ header{
 
 .conteiner-cabecalho{
     background-color: black;
+    display: inline;
     padding: 20px;
-    }
+    }s
 
 .img-rigth{
  position: absolute;
