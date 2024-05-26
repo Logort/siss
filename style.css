@@ -19,9 +19,6 @@ header{
 }
 
 .conteiner-cabecalho{
-    background-color: white;
-    border-color: black;
-    border-width: 2px;
     background-color:white;
     padding: 20px;
     }
@@ -32,4 +29,9 @@ top: 40%;
 right: 50%;
 height: auto;
 
+}
+
+.linha-site{
+    border-color: black;
+    border-width: 2px;
 }
