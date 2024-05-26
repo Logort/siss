@@ -3,7 +3,7 @@ background-color: goldenrod;
 margin: 10px; padding: 0px;
 }
 .corzinha{
-    color: goldenrod;
+    color:gray;
 margin: 10px; padding: 0px;
 }
 body{
@@ -17,6 +17,12 @@ header{
   padding: 20px;
 }
 
+.conteiner-cabecalho{
+    position: relative; 
+    width: 300px;
+    height: 200px;
+    border:1px solid;
+    }
 
 .img-rigth{
  position: absolute;
