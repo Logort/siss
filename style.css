@@ -19,12 +19,12 @@ header{
 }
 .conteiner{
 position: relative; 
-width:300px;
-height: 200px;
+width:100px;
+height: 50px;
 border:1px solid;
 }
 
-img{
+.img-rigth{
  position: absolute;
 top: 0;
 right: 0;
