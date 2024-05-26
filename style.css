@@ -16,12 +16,7 @@ header{
     color:goldenrod;
   padding: 20px;
 }
-.conteiner{
-position: relative; 
-width: 300px;
-height: 200px;
-border:1px solid;
-}
+
 
 .img-rigth{
  position: absolute;
