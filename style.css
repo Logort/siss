@@ -25,10 +25,10 @@ header{
 
 .img-rigth{
  position: absolute;
-top: 20%;
-right: 10%;
+top: 50%;
+right: 40%;
 height: auto;
-
+margin: 40px; padding: 20px;
 }
 
 .linha-site{
