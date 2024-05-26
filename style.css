@@ -15,11 +15,11 @@ header{
     background-color:white;
     color:gold;
   padding: 20px;
-  text-align: center;
+  display: block;
 }
 
 .conteiner-cabecalho{
-    background-color: gray;
+    background-color: black;
     padding: 20px;
     }
 
