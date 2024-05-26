@@ -36,6 +36,6 @@ height: auto;
 }
 
 .circular-img{
-border-radius: 50%;
+border-style:inset;
 color: gray;
 }
