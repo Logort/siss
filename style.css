@@ -34,3 +34,8 @@ height: auto;
     border-color: black;
     border-width: 1px;
 }
+
+.circular-img{
+border-radius: 50%;
+
+}
