@@ -27,7 +27,7 @@ border:1px solid;
 .img-rigth{
  position: absolute;
 top: 0;
-right: 0;
-height: autoa;
+right: 50%;
+height: auto;
 
 }
