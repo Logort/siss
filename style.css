@@ -17,3 +17,17 @@ header{
   padding: 20px;
   border-bottom:2px solid goldenrod;
 }
+.conteiner{
+position: relative; 
+width:300px;
+height: 200px;
+border:1px solid;
+}
+
+img{
+ position: absolute;
+top: 0;
+right: 0;
+
+
+}
