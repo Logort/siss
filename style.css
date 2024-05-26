@@ -19,6 +19,8 @@ header{
 }
 
 .conteiner-cabecalho{
+    background-color: white;
+
     background-color: black;
     display: inline;
     padding: 20px;
