@@ -21,6 +21,7 @@ header{
 .conteiner-cabecalho{
     background-color:white;
     padding: 20px;
+    text-decoration: none;
     }
 
 .img-rigth{
@@ -40,10 +41,6 @@ border-style:inset;
 color: gray;
 }
 
-.canhotinha{
-text-align: left;
-
-}
 
 .direitinha{
     text-align:right;
