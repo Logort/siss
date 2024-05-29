@@ -21,7 +21,6 @@ header{
 .conteiner-cabecalho{
     background-color:white;
     padding: 20px;
-    text-decoration: none;
     }
 
 .img-rigth{
@@ -44,4 +43,5 @@ color: gray;
 
 .direitinha{
     text-align:right;
+    text-decoration: none;
 }
