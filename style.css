@@ -28,12 +28,13 @@ header{
 top: 50%;
 right: 40%;
 height: auto;
+font-size:20px;
 }
 
 .linha-site{
     border-color: black;
     border-width: 1px;
-    font-size:20px;
+    
 }
 
 .circular-img{
