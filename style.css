@@ -21,6 +21,7 @@ header{
 .conteiner-cabecalho{
     background-color:white;
     padding: 20px;
+    font-size:20px;
     }
 
 .img-rigth{
@@ -34,7 +35,6 @@ height: auto;
 .linha-site{
     border-color: black;
     border-width: 1px;
-    font-size:20px;
     
 }
 
