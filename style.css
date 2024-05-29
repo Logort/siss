@@ -21,7 +21,7 @@ header{
 .conteiner-cabecalho{
     background-color:white;
     padding: 20px;
-    font-size:20px;
+    
     }
 
 .img-rigth{
@@ -35,12 +35,6 @@ font-size:20px;
 .linha-site{
     border-color: black;
     border-width: 1px;
-    font-size:20px;
-}
-
-.circular-img{
-border-style:inset;
-color: gray;
 }
 
 
