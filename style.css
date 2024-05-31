@@ -36,6 +36,7 @@ font-size:20px;
 .linha-site{
     border-color: gray;
     border-width: 1px;
+    padding: 20px;
     margin-bottom: 20px;
 }
 
