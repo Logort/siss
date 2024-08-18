@@ -37,6 +37,7 @@ font-size:20px;
 .linha-site{
     border-color: gray;
     border-width: 1px;
+    height: 1px; background-color: black; border: none;
 }
 
 
